@@ -1,4 +1,4 @@
-## Vanesa Ortiz
+# Vanesa Ortiz
 
 [GitHub](https://github.com/vanesa)
 
