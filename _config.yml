@@ -3,7 +3,7 @@ plugins:
 - jekyll-github-metadata
 - jekyll-titles-from-headings
 title: 'Vanesa Ortiz'
-description: 'Links'
+description: ''
 github:
  is_project_page: false
 titles_from_headings:
