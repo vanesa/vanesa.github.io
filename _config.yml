@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 plugins: 
 - jekyll-github-metadata
+- jekyll-titles-from-headings
 title: 'Vanesa Ortiz'
 description: 'Links'
 github:
